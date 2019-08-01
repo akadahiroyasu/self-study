@@ -18,7 +18,7 @@ Dogs vs. Cats Redux: Kernels Edition: no rank, late submission
 【Practice】Bank Marketing
 
 
-# Finished textbooks
+# Completed textbooks
 
 Computer Science Distilled: Learn the Art of Solving Computational Problems (Ferreira Filho, Wladston  (Author), Raimondo Pictet (Editor))
 
@@ -32,7 +32,7 @@ Pythonで体験してわかるアルゴリズムとデータ構造 (西澤 弘�
 
 つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング (株式会社電通国際情報サービス)
 
-# finished online courses
+# Completed online courses
 
 ## Udemy
 
