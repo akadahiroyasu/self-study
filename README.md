@@ -1,7 +1,24 @@
 # self-study-tools-
 showing what I have done before as self study
 
-# Textbooks
+# Competitions
+
+## kaggle
+
+User Name: hiroyasuakada, <https://www.kaggle.com/hiroyasuakada>
+
+Titanic: Machine Learning from Disaster: currently working on it
+
+Dogs vs. Cats Redux: Kernels Edition: no rank, late submission
+
+## Signate
+
+【Practice】Boxed Lunch Sales Forecasting
+
+【Practice】Bank Marketing
+
+
+# Finished textbooks
 
 Computer Science Distilled: Learn the Art of Solving Computational Problems (Ferreira Filho, Wladston  (Author), Raimondo Pictet (Editor))
 
@@ -15,7 +32,7 @@ Pythonで体験してわかるアルゴリズムとデータ構造 (西澤 弘�
 
 つくりながら学ぶ! 深層強化学習 PyTorchによる実践プログラミング (株式会社電通国際情報サービス)
 
-# Online Course
+# finished online courses
 
 ## Udemy
 
