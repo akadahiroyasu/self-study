@@ -1,5 +1,5 @@
-# self-study-tools-
-showing what I have done before as self study
+# Self study tools
+Showing what I have done before as self study
 
 # Competitions
 
