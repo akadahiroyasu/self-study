@@ -7,7 +7,7 @@ Showing what I have done before as self study
 
 User Name: hiroyasuakada, <https://www.kaggle.com/hiroyasuakada>
 
-Titanic: Machine Learning from Disaster: currently working on it
+Titanic: Machine Learning from Disaster: top 5%, getting started
 
 Dogs vs. Cats Redux: Kernels Edition: no rank, late submission
 
